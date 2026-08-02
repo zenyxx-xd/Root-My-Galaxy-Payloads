@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 3,
+  "payloads": [
+    {
+      "payloadId": "iqoo-neo11-v2435a-6.6.89",
+      "displayName": "iQOO Neo 11 (Snapdragon 8 Elite / OriginOS 6)",
+      "models": [
+        "V2435A",
+        "V2435",
+        "iQOO Neo 11"
+      ],
+      "kernelVersions": [
+        "6.6.89"
+      ],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/zenyxx-xd/Root-My-Galaxy-Payloads/main/payloads/iqoo-neo11/cve-2026-43499-iqoo.so",
+        "size": 16384
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/zenyxx-xd/Root-My-Galaxy-Payloads/main/payloads/iqoo-neo11/ksud-iqoo",
+        "size": 32768
+      }
+    }
+  ]
+}
