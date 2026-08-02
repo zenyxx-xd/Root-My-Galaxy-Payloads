@@ -14,7 +14,7 @@
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/zenyxx-xd/Root-My-Galaxy-Payloads/main/payloads/iqoo-neo11/cve-2026-43499-iqoo.so",
-        "size": 16384
+        "size": 2097152
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/zenyxx-xd/Root-My-Galaxy-Payloads/main/payloads/iqoo-neo11/ksud-iqoo",
