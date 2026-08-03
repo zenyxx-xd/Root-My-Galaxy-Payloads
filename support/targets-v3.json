@@ -5,10 +5,7 @@
       "payloadId": "iqoo-neo11-v2435a-6.6.89",
       "displayName": "iQOO Neo 11 CN (OriginOS 6)",
       "models": [
-        "V2520A",
-        "V2435A",
-        "V2435",
-        "iQOO Neo 11"
+        "V2520A"
       ],
       "kernelVersions": [
         "6.6.89"
